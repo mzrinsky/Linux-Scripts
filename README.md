@@ -2,7 +2,7 @@
 These are some helper scripts I use on my XMonad setup on my Lenovo Yoga 720.
 The rotation_stuff.sh script allows screen rotation to work, along with touch screen and wacom pen.
 
-Some additional things required are `rumno` and `brillo`.
+Some additional things required are `dunst`, `rumno` and `brillo`.
 
 YMMV
 
