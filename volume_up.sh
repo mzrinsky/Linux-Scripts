@@ -8,5 +8,4 @@ else
 	VOL=100
 	`pulsemixer --set-volume $VOL`
 fi
-#volnoti-show $VOL
 rumno -v $VOL
